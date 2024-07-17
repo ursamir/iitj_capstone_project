@@ -27,5 +27,5 @@ Common Tasks:
 ## Individual Projects
 1. Customer Churn Prediction Project
     - Author: Samir Kumar Mishra
-    - Link: [README](ChurnPrediction\README.md)
+    - Link: [README](ChurnPrediction/README.md)
     - Live Deployment : [huggingface](https://huggingface.co/spaces/g23ai1052/Churn-Prediction)
